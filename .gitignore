@@ -1,0 +1,9 @@
+# FinEmbed - 金融Embedding微调训练
+__pycache__
+*.pyc
+__pycache__/
+models/
+data/
+*.log
+.env
+token.env
